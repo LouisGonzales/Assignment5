@@ -2,9 +2,9 @@
 %CSCE 4430
 %Source: http://sandbox.mc.edu/~bennet/cs404/doc/jump2_pl.html
 
-% The board shape. The x's are filled in holes, the O's are empty.
+% The starting board shape. The x's are filled in holes, the O's are empty.
 
-% [ [o], [x, x], [x, x, x], [x, x, x, x] ]
+% [ [o], [x, x], [x, x, x], [x, x, x, x] [x, x, x, x, x]]
 
 
 % Possible jumps that can be made on a line.
